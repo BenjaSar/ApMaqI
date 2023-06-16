@@ -1,0 +1,4 @@
+*.xcf
+*.txt
+*.venv
+data
