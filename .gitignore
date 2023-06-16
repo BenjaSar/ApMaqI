@@ -1,4 +1,4 @@
 *.xcf
 *.txt
 *.venv
-data
+#data
