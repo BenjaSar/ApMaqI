@@ -2,3 +2,6 @@
 *.txt
 *.venv
 #data
+.conda
+.ipynb_checkpoints
+mlruns
