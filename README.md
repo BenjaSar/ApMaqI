@@ -3,7 +3,7 @@
 #### Authors
 
 Karen Raczkowski <br>
-Juan Iribet <br>
+Juan Ignacio Ribet <br>
 Martín Caceres <br>
 FS <br>
 2023
